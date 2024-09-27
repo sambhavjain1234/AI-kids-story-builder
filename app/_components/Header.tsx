@@ -24,7 +24,7 @@ function Header() {
         },
         {
             name:'Create Story',
-            path:'/create-story'
+            path:'/create_story'
         },
         {
             name:'Explore Stories',
