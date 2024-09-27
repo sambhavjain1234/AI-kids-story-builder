@@ -41,7 +41,7 @@ function Header() {
             />
             <NavbarBrand>
                 <Image src={'/logo.svg'} alt='logo' width={40} height={40}/>
-                <h2 className='font-bold text-2xl text-primary ml-3'>Kidso Story</h2>
+                <h2 className='font-bold text-2xl text-primary ml-3'>Kidly Tales</h2>
             </NavbarBrand>
         </NavbarContent>
         <NavbarContent justify='center' className='hidden sm:flex'>
